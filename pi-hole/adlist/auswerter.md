@@ -66,7 +66,6 @@
 ||discord.com^
 ||slack.com^
 ||zoom.us^
-||teams.microsoft.com^
 ||skype.com^
 
 <!-- Event- und Ticketing -->
